@@ -4,7 +4,7 @@ www.dio.me
 
 #### Desenvolvido na linguagem Java por:
 - [Marcos Shirafuchi](https://github.com/marcosfshirafuchi)
-# Desafio 05 - Controle de saques
+# Desafio 05 / 05 - Controle de saques
 ## Descrição
 Você está desenvolvendo um programa simples em Java para auxiliar um cliente a realizar saques de uma conta bancária. O cliente pode fazer saques até atingir um limite diário predefinido.
 ## Entrada
